@@ -4,6 +4,22 @@
 - **Medio Maratón**: Sub-1:35 (19 Octubre 2025)
 - **5K**: Sub-19:00 (16 Noviembre 2025)
 
+## 👤 PERFIL BASE
+- **Ubicación**: Santo Domingo, República Dominicana
+- **Nivel**: Avanzado - PRs: 5K en 20:12, 10K en 43:30
+- **Base previa**: 60km/semana antes del plan
+- **Inicio plan**: 21 julio 2025 (incorporación directa a semana 3)
+
+## 👟 ZAPATILLAS
+- **Magic Speed 4**: Trabajos de calidad, tests, tempos
+- **NIMBUS 26**: Recuperaciones y aeróbicos  
+- **NOVABLAST 5**: Disponibles (se sienten raras/anchas)
+
+## 🧠 FILOSOFÍA
+- Específico y directo - no base innecesaria
+- Datos sobre adivinanzas - tests regulares
+- Doble objetivo factible con velocidad base actual
+
 ## 🏃‍♂️ ENTRENAMIENTOS CLAVE
 
 ### SIMULACROS HM
@@ -69,14 +85,14 @@
 
 ## 📊 TESTS CLAVE Y RESULTADOS
 
-### ✅ TEST 1: 5K (2 Agosto 2025)
-- **Objetivo**: Validar capacidad para sub-43:00 en 10K (4:18/km)
-- **Resultado**: 5.04K en 21:19 (4:13/km promedio)
-- **Splits**: 4:06 - 4:13 - 4:14 - 4:19 - 4:14
-- **FC Promedio**: 167 bpm
-- **Análisis**: ✅ OBJETIVO SUPERADO - Equivale a ~42:30 en 10K
-- **Sensaciones**: [PENDIENTE COMPLETAR]
-- **Impacto en plan**: Confirma viabilidad de objetivos, mantener intensidades programadas
+### ⚠️ TEST 1: 10K Objetivo → 5K Realizado (2 Agosto 2025)
+- **Objetivo**: 10K sub-43:00 (4:18/km) - Validar capacidad HM
+- **Resultado**: Solo completó 5K en 21:19 (4:13/km promedio)
+- **Causa**: "Venía cargado de la semana, estaba muy exigido"
+- **Capacidad real**: "Quizá podía hacer 1km más a ese ritmo" = 6K total
+- **Análisis**: ✅ DECISIÓN INTELIGENTE - Carga acumulada bien gestionada
+- **Equivalencia**: 4:13/km sostenido confirma capacidad sub-43 en condiciones frescas
+- **Impacto**: Sabiduría deportiva > números ciegos
 
 ### 🔄 PRÓXIMO TEST: 3x1600m (5 Agosto 2025)
 - **Objetivo**: 3:46-3:48/km (confirmar sub-19:00 en 5K)
@@ -117,6 +133,14 @@
 - **Martes 5**: 3x1600m a 3:46-3:48/km ✅
   - Resultado: 3:44 - 3:58 - 3:58/km (parcial)
   - Análisis: Velocidad superior, aspecto mental a trabajar
+- **Miércoles 6**: Recuperación 45min ✅
+  - Resultado: 10.09K en 56:32 (5:35/km)
+  - Análisis: "Session relax", recuperación perfecta
+- **Jueves 7**: Día suave + aceleraciones ✅
+  - Resultado: 8.15K en 44:53 (5:30/km) + final 3:51/km
+  - Análisis: Progresión perfecta, velocidad natural
+  - Sensaciones: "Me siento nítido y en perfecto estado"
+  - Estado pre-carrera: ÓPTIMO
 
 ---
 
@@ -136,7 +160,10 @@
 ## 💡 NOTAS Y OBSERVACIONES
 - Plan ejecutándose según lo previsto
 - Nivel de forma superior a expectativas iniciales
-- [AGREGAR OBSERVACIONES CONFORME AVANCE]
+- Excelente autoconocimiento: paró cuando sintió carga excesiva
+- Gestión inteligente fatiga semanal vs objetivos a largo plazo
+- Forma confirmada (4:13/km) sin comprometer plan general
+- Patrón: Prioriza sostenibilidad sobre números individuales
 
 ---
 
