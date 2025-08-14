@@ -94,10 +94,11 @@
 - **Equivalencia**: 4:13/km sostenido confirma capacidad sub-43 en condiciones frescas
 - **Impacto**: Sabiduría deportiva > números ciegos
 
-### 🔄 PRÓXIMO TEST: 3x1600m (5 Agosto 2025)
-- **Objetivo**: 3:46-3:48/km (confirmar sub-19:00 en 5K)
-- **Predicción**: Basado en resultado anterior, debería ser alcanzable
-
+### ✅ CARRERA 1: 5K Higuey Corre (10 Agosto 2025)
+- **Resultado**: 5.00K en 20:08 (4:01/km) - NUEVO PR
+- **vs Objetivo**: Sub-19:30 ⚠️ (+38") pero con elevación 33m
+- **Análisis**: Progresión excelente vs PR anterior (20:12 en terreno plano)
+- **Conclusión**: Sub-19:30 factible en terreno plano
 ---
 
 ## 📅 PROGRESO SEMANAL
@@ -141,7 +142,52 @@
   - Análisis: Progresión perfecta, velocidad natural
   - Sensaciones: "Me siento nítido y en perfecto estado"
   - Estado pre-carrera: ÓPTIMO
+- **Viernes 8**: Activación + 8 aceleraciones ✅
+  - Base: 780m en 3:24 + 8x15" aceleraciones
+  - Velocidades: Hasta 2:46/km máximo
+  - Sensaciones: "Me sentía bien" - hizo 4 extra
+- **Sábado 9**: Descanso completo ✅
+- **Domingo 10**: CARRERA 5K ✅
+  - Resultado: 5.03K en 20:08 (4:01/km) - NUEVO PR
+  - Objetivo: Sub-19:30 ⚠️ (+38") pero con 33m elevación
+  - Análisis: En terreno plano, sub-19:30 factible
 
+### SEMANA 6 (11-17 AGOSTO) - POST CARRERA
+
+- [x] **Lunes 11**: Recuperación post-carrera 50min ✅
+  - Resultado: 6.01K en 31:10 (5:10/km)
+  - Progresión: 5:27 → 4:30 → 3:49/km final
+  - FC: 154 bpm | Training Effect: 3.2/0.7
+  - Estado: LISTO para test confirmación
+
+- [x] **Martes 12**: Test 5x1000m (con error configuración) ✅
+  - Resultado: 3:50 + 3:41 (600m) + 4:28 + 3:59 (300m)
+  - Análisis: SUB-19:00 CONFIRMADO - velocidad demostrada
+  - Conclusión: Error técnico no afecta validez de datos
+
+- [x] **Miércoles 13**: Test 3K ✅
+  - Resultado: 3.01K en 11:40 (3:52/km)
+  - Splits: 3:37 - 3:55 - 4:03/km
+  - Análisis: SUB-19:30 CONFIRMADO con pacing correcto
+  - Lección: Controlar salida para distribución uniforme
+
+- [ ] **Jueves 14**: Tempo progresivo 20min (4:40→4:30→4:20/km)
+  - Primera parte: 7min a 4:40/km
+  - Segunda parte: 7min a 4:30/km  
+  - Tercera parte: 6min a 4:20/km
+
+- [ ] **Viernes 15**: Activación 30min + aceleraciones
+  - Base: 30min a 5:45-6:00/km
+  - 4x15" aceleraciones progresivas
+
+- [ ] **Sábado 16**: Carrera larga 22K progresiva (últimos 4K a 4:30/km)
+  - Primera parte: 18K a 5:15-5:25/km
+  - Últimos 4K: 4:30/km (específico HM)
+  - Zapatillas: Magic Speed 4 para finish
+
+- [ ] **Domingo 17**: Aeróbico 65min a 5:15-5:30/km
+  - Ritmo conversacional
+  - Zapatillas: NIMBUS 26
 ---
 
 ## 🔄 AJUSTES AL PLAN ORIGINAL
@@ -180,4 +226,4 @@
 
 ---
 
-*Última actualización: 4 Agosto 2025*
+*Última actualización: 14 Agosto 2025*
