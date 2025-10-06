@@ -12,8 +12,8 @@ Hola, soy un corredor avanzado siguiendo un plan de doble objetivo. Necesito con
 3. **Formato de análisis** (templates para tests, tempos, series, etc.)
 
 **ESTADO ACTUAL:**
-- Semana 5 del plan (4-10 agosto 2025)
-- Últimos entrenamientos: Test 3x1600m (5 ago) + Tempo 2x10min (4 ago)
+- Semana 6 del plan (11-17 agosto 2025)
+- Últimos entrenamientos: Test 3k (13 ago) +  Tempo progresivo 20min (4:40→4:30→4:20/km) (14 ago)
 - Forma superior a expectativas - objetivos muy factibles
 - Próximo entrenamiento programado: [fecha actual]
 

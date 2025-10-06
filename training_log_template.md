@@ -29,6 +29,12 @@
   - FC Promedio: 163 bpm | Training Load: 230
   - Análisis: Cansancio acumulado semana - 9km totales, decisión inteligente parar
   - Sensaciones: "Cansancio de la semana, ya tenía 9km acumulados"
+- **29 Agosto**: Simulacro HM 3x3K (sesión doble)
+ - Objetivo: 3x3K a 4:45/km
+ - Resultado: 2x3K (4:31 + 4:40/km) + 0.25K + sesión adicional 2.37K (4:56/km promedio)
+ - FC Promedio: 170 bpm (sesión 1) + 177 bpm (sesión 2) | Training Load: 247 + 119
+ - Análisis: Límite ~20min . específico confirmado - límite específico vs fatiga sistémica
+ - Sensaciones: [Pendiente]
 
 ### Carreras Largas
 - **27 Julio**: 20K aeróbico ✅
@@ -153,7 +159,6 @@
   - Análisis: En terreno plano, sub-19:30 factible
 
 ### SEMANA 6 (11-17 AGOSTO) - POST CARRERA
-
 - [x] **Lunes 11**: Recuperación post-carrera 50min ✅
   - Resultado: 6.01K en 31:10 (5:10/km)
   - Progresión: 5:27 → 4:30 → 3:49/km final
@@ -188,6 +193,76 @@
 - [ ] **Domingo 17**: Aeróbico 65min a 5:15-5:30/km
   - Ritmo conversacional
   - Zapatillas: NIMBUS 26
+
+### SEMANA 7 (18-24 AGOSTO) - POST CARRERA
+- [x] **Lunes 18**: Recuperación post-carrera 50min ✅
+  - Resultado: 6.78K en 32:33 (4:48/km)
+  - Progresión: 5:45 → 5:27 → 4:27 → 4:34 → 4:30 → 4:30 → 4:14/km final
+  - FC: 161 bpm | Training Effect: 3.2/0.7
+  - Estado: LISTO para test confirmación
+
+- [x] **Martes 19**: Test 3x800m ✅
+  - Resultado: 3:59 + 3:47 + 3:53
+  - Análisis: SUB-19:00 CONFIRMADO - velocidad demostrada
+
+- [x] **Miércoles 20**: Test 3K ✅
+  - Resultado: 7.13K en 40:04 (5:37/km)
+  - Splits: 3:37 - 3:55 - 4:03/km
+  - Análisis: SUB-19:30 CONFIRMADO con pacing correcto
+  - Lección: Controlar salida para distribución uniforme
+
+- [ ] **Jueves 21**: Tempo 3x4km (4:31)
+  - Primera parte: 4km a 4:31/km
+  - Segunda parte: 1km a 4:53/km  
+
+- [ ] **Viernes 22**: Activación 30min + aceleraciones
+  - Base: 29:46min a 5:57/km
+
+- [ ] **Sábado 23**: Carrera larga 22K progresiva (últimos 4K a 4:30/km)
+  - Primera parte: 3Km a 4:35/km
+  - Últimos 4K: 2.17km a 4:36/km 
+
+- [ ] **Domingo 24**: Aeróbico 13km a 5:22/km
+  - Ritmo conversacional
+  - Zapatillas: NIMBUS 26
+
+### Semana 8
+- [x] **Lunes 25**: Tempo extendido 30min
+ - Objetivo: 30min continuo a 4:25-4:30/km
+ - Resultado: 6.27K en 28:23 (4:32/km promedio) - Incompleto
+ - FC Promedio: [Datos del primer entreno] | Training Load: [Datos del primer entreno]
+ - Análisis: Progreso vs semana anterior (22min → 26min específicos) - ritmos dentro objetivo
+ - Sensaciones: [Pendiente]
+- [x] **Martes 26**: Fartlek extremo
+ - Estructura: 4x3min a 3:50/km + 4x2min a 3:42/km + 4x1min a 3:35/km
+ - Resultado: Solo 4x3min (3:55 - 3:51 - 4:04 - 4:17/km) + 1 intervalo adicional incompleto
+ - FC Promedio: 167 bpm | Training Load: 238
+ - Análisis: Completó primera parte del fartlek - velocidad confirmada en primeros intervalos
+ - Sensaciones: [Pendiente]
+- [x] **Miercoles 27**: Fartlek extremo
+ - Estructura: 4x3min a 3:50/km + 4x2min a 3:42/km + 4x1min a 3:35/km
+ - Resultado: [Datos pendientes - no subidos]
+ - Análisis: [Pendiente datos]
+ - Sensaciones: [Pendiente]
+- [x] **Jueves 28**: Simulacro HM 3x3K (sesión doble)
+ - Objetivo: 3x3K a 4:45/km
+ - Resultado: 2x3K (4:31 + 4:40/km) + 0.25K + sesión adicional 2.37K (4:56/km promedio)
+ - FC Promedio: 170 bpm (sesión 1) + 177 bpm (sesión 2) | Training Load: 247 + 119
+ - Análisis: Límite ~20min trabajo específico confirmado - recuperación rápida (1min) indica límite específico vs fatiga sistémica
+ - Sensaciones: [Pendiente]
+- [x] **Viernes 29**: Rest
+- [x] **Domingo 31**: [Programado - Fondo 18K progresiva]
+ - Objetivo: 14K base (5:30-5:40/km) + 4K específicos (4:50→4:40/km)
+ - Resultado: [Pendiente ejecución]
+- [x] **Sabado 30**: [Programado - Fondo 18K progresiva]
+ - Objetivo: 14K base (5:30-5:40/km) + 4K específicos (4:50→4:40/km)
+ - Resultado: [Pendiente ejecución]
+
+
+### RECUPERACIÓN
+- **28 Agosto**: Recuperación 45min
+ - Resultado: [Datos no subidos]
+ - Análisis: [Pendiente]
 ---
 
 ## 🔄 AJUSTES AL PLAN ORIGINAL
