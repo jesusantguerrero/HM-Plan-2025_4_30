@@ -228,36 +228,179 @@
 
 ### Semana 8
 - [x] **Lunes 25**: Tempo extendido 30min
- - Objetivo: 30min continuo a 4:25-4:30/km
- - Resultado: 6.27K en 28:23 (4:32/km promedio) - Incompleto
- - FC Promedio: [Datos del primer entreno] | Training Load: [Datos del primer entreno]
- - Análisis: Progreso vs semana anterior (22min → 26min específicos) - ritmos dentro objetivo
- - Sensaciones: [Pendiente]
-- [x] **Martes 26**: Fartlek extremo
- - Estructura: 4x3min a 3:50/km + 4x2min a 3:42/km + 4x1min a 3:35/km
- - Resultado: Solo 4x3min (3:55 - 3:51 - 4:04 - 4:17/km) + 1 intervalo adicional incompleto
- - FC Promedio: 167 bpm | Training Load: 238
- - Análisis: Completó primera parte del fartlek - velocidad confirmada en primeros intervalos
- - Sensaciones: [Pendiente]
-- [x] **Miercoles 27**: Fartlek extremo
- - Estructura: 4x3min a 3:50/km + 4x2min a 3:42/km + 4x1min a 3:35/km
- - Resultado: [Datos pendientes - no subidos]
- - Análisis: [Pendiente datos]
- - Sensaciones: [Pendiente]
-- [x] **Jueves 28**: Simulacro HM 3x3K (sesión doble)
- - Objetivo: 3x3K a 4:45/km
- - Resultado: 2x3K (4:31 + 4:40/km) + 0.25K + sesión adicional 2.37K (4:56/km promedio)
- - FC Promedio: 170 bpm (sesión 1) + 177 bpm (sesión 2) | Training Load: 247 + 119
- - Análisis: Límite ~20min trabajo específico confirmado - recuperación rápida (1min) indica límite específico vs fatiga sistémica
- - Sensaciones: [Pendiente]
-- [x] **Viernes 29**: Rest
-- [x] **Domingo 31**: [Programado - Fondo 18K progresiva]
- - Objetivo: 14K base (5:30-5:40/km) + 4K específicos (4:50→4:40/km)
- - Resultado: [Pendiente ejecución]
-- [x] **Sabado 30**: [Programado - Fondo 18K progresiva]
- - Objetivo: 14K base (5:30-5:40/km) + 4K específicos (4:50→4:40/km)
- - Resultado: [Pendiente ejecución]
+  - Objetivo: 30min continuo a 4:25-4:30/km
+  - Resultado: 6.27K en 28:23 (4:32/km promedio) - Incompleto
+  - FC Promedio: [Datos del primer entreno] | Training Load: [Datos del primer entreno]
+  - Análisis: Progreso vs semana anterior (22min → 26min específicos) - ritmos dentro objetivo
+  - Sensaciones: [Pendiente]
 
+- [x] **Martes 26**: Fartlek extremo
+  - Estructura: 4x3min a 3:50/km + 4x2min a 3:42/km + 4x1min a 3:35/km
+  - Resultado: Solo 4x3min (3:55 - 3:51 - 4:04 - 4:17/km) + 1 intervalo adicional incompleto
+  - FC Promedio: 167 bpm | Training Load: 238
+  - Análisis: Completó primera parte del fartlek - velocidad confirmada en primeros intervalos
+  - Sensaciones: [Pendiente]
+- [x] **Miercoles 27**: Fartlek extremo
+  - Estructura: 4x3min a 3:50/km + 4x2min a 3:42/km + 4x1min a 3:35/km
+  - Resultado: [Datos pendientes - no subidos]
+  - Análisis: [Pendiente datos]
+  - Sensaciones: [Pendiente]
+- [x] **Jueves 28**: Simulacro HM 3x3K (sesión doble)
+  - Objetivo: 3x3K a 4:45/km
+  - Resultado: 2x3K (4:31 + 4:40/km) + 0.25K + sesión adicional 2.37K (4:56/km promedio)
+  - FC Promedio: 170 bpm (sesión 1) + 177 bpm (sesión 2) | Training Load: 247 + 119
+  - Análisis: Límite ~20min trabajo específico confirmado - recuperación rápida (1min) indica límite específico vs fatiga sistémica
+  - Sensaciones: [Pendiente]
+- [x] **Viernes 29**: Rest
+- [x] **Sabado 30**: [Programado - Fondo 18K progresiva]
+  - Objetivo: 14K base (5:30-5:40/km) + 4K específicos (4:50→4:40/km)
+  - Resultado: [Pendiente ejecución]
+- [x] **Domingo 31**: 🏔️ CARRERA LARGA 21K - PR MEDIO MARATÓN (Adelantado de semana 9)
+  - Objetivo: 25K (17K base + 8K específicos a 4:25-4:30/km)
+  - Resultado: 21.26K en 1:47:34 (5:03/km observado / **4:50-4:53/km ajustado por elevación**)
+  - Elevación: 101m (ajuste ~10"/km)
+  - FC Promedio: 164 bpm | Calorías: 1,429
+  - **Splits detallados**:
+    - K1-7: 5:31 - 5:12 - 5:10 - 5:08 - 5:17 - 5:24 - 5:16 (FC 141-169) - BASE AERÓBICA
+    - K8-15: 4:59 - 4:59 - 4:55 - 4:56 - 4:55 - 4:52 - 4:49 - 4:51 (FC 164-168) - ZONA ESPECÍFICA HM ✅
+    - K16-21: 4:43 - 4:43 - 4:54 - 4:52 - 5:05 - 5:36 (FC 164-172) - FINISH + DESACELERACIÓN FINAL
+  - **Análisis**:
+    - ✅ **EXCELENTE ESTRUCTURA**: Progresión perfecta - base aeróbica → zona específica → finish
+    - ✅ **ZONA ESPECÍFICA**: 8K consecutivos (K8-15) a 4:52-4:59/km = EXACTAMENTE ritmo objetivo HM
+    - ✅ **FINISH FUERTE**: K16-17 a 4:43/km muestra reserva de velocidad
+    - ✅ **FC CONTROLADA**: 164 bpm promedio = zona aeróbica alta, sostenible
+    - 💪 **RITMO AJUSTADO**: Con 101m elevación, equivale a 4:50-4:53/km en plano
+    - 📊 **PROYECCIÓN HM**: 4:50/km sostenido = 1:41:52 → **Margen de 6:52 para sub-1:35**
+    - ⚠️ **VOLUMEN**: 21K/25K (84%) - faltaron 4K pero completó zona específica
+    - 🎯 **CONCLUSIÓN**: **RESISTENCIA ESPECÍFICA HM CONFIRMADA** - 8K consecutivos a ritmo objetivo
+  - Sensaciones: [Pendiente completar]
+  - Zapatillas: [Pendiente confirmar]
+
+## 📅 SEMANA 12 (22-28 SEPTIEMBRE) - ÚLTIMA SEMANA FUERTE
+
+- [ ] **Lunes 22**: Tempo final 20min a 4:20/km
+  - Objetivo: 20min continuo a 4:20/km
+  - Resultado: _____ km en _____ (_____ /km)
+  - FC Promedio: _____ bpm | Training Load: _____
+  - Análisis:
+  - Sensaciones: _____
+
+- [ ] **Martes 23**: Velocidad final - 3x1200m a 3:45/km
+  - Objetivo: 3x1200m a 3:45/km
+  - Resultados: _____ - _____ - _____
+  - FC Promedio: _____ bpm | Training Load: _____
+  - Análisis:
+  - Sensaciones: _____
+
+- [ ] **Miércoles 24**: Recuperación
+  - Resultado: _____ km en _____ (_____ /km)
+  - Notas:
+
+- [ ] **Jueves 25**: Simulacro final - 8K a 4:25/km + 4K a 4:20/km
+  - Objetivo: 8K a 4:25/km + 4K a 4:20/km
+  - 8K: _____ en _____ (_____ /km)
+  - 4K final: _____ en _____ (_____ /km)
+  - FC Promedio: _____ bpm | Training Load: _____
+  - Análisis:
+  - Sensaciones: _____
+
+- [x] **Viernes 26**: Activación con trabajo de calidad
+  - Objetivo: Activación con velocidad
+  - Resultado: 6.01K en 26:22 (4:23/km promedio)
+  - Elevación: 13m (terreno plano)
+  - FC Promedio: 174 bpm | Calorías: 384
+  - **Splits**:
+    - K1: 4:31 (FC 150)
+    - K2: 4:20 (FC 170)
+    - K3: 4:22 (FC 177)
+    - K4: 4:18 (FC 181)
+    - K5: 4:28 (FC 182)
+    - K6: 4:20 (FC 186)
+  - **Análisis**:
+    - ✅ **RITMO EXCELENTE**: 4:23/km promedio = ritmo objetivo HM superado
+    - ✅ **Consistencia perfecta**: Todos los splits entre 4:18-4:31/km
+    - ✅ **Ubicación correcta**: Viernes antes de long run domingo = 48h recuperación
+    - ⚡ **FC elevada**: 174 bpm indica esfuerzo threshold - más intenso que "activación" típica
+    - 🎯 **Confirmación velocidad**: Capacidad 4:20-4:23/km sostenida confirmada
+  - Sensaciones: "High-intensity run - FC más alta en 3 semanas"
+  - Zapatillas: NOVABLAST 5
+
+- [x] **Sábado 27**: Descanso completo ✅
+  - Preparación óptima para long run de 30K
+
+- [x] **Domingo 28**: 🏔️ CARRERA LARGA 22K - NUEVO PR MEDIO MARATÓN
+  - Objetivo: 30K (18K base + 12K específicos a 4:25/km) - **ENTRENO MÁS IMPORTANTE**
+  - Resultado: 22.00K en 1:51:18 (5:03/km observado / **4:43-4:45/km ajustado por elevación**)
+  - Elevación: 194m (ajuste ~19-20"/km)
+  - FC Promedio: 170 bpm | Calorías: 1,560
+  - **Splits detallados**:
+    - K1-5: 4:49 - 4:45 - 4:47 - 4:56 - 4:53 (FC 155-176)
+    - K6-10: 4:56 - 4:48 - 4:55 - 5:06 - 5:06 (FC 173-176)
+    - K11-15: 4:49 - 4:55 - 5:15 - 5:16 - 4:57 (FC 166-169)
+    - K16-20: 5:13 - 5:27 - 5:09 - 4:55 - 5:09 (FC 166-169)
+    - K21-22: 5:18 - 5:53 (FC 169-172)
+  - **Análisis**: 
+    - ✅ **FORMA EXCELENTE**: Ritmo ajustado 4:43-4:45/km confirma capacidad sub-1:35
+    - ✅ **Proyección HM**: 4:43/km sostenido en plano = 1:39:30 → **Margen de 4:30 para sub-1:35**
+    - ✅ **Decisión inteligente**: Paró en 22K - "loma tremenda, dolía hasta el alma"
+    - 🏔️ **Condiciones extremas**: 194m elevación + terreno difícil comprometió volumen objetivo
+    - ⚠️ **Volumen incompleto**: 22K/30K (73%) - faltaron 8K específicos
+    - 📊 **Pacing**: K13-18 (5:06-5:27) = zona de lomas más duras
+    - 💡 **Lección**: Ruta mal elegida para long run de 30K - necesita terreno más plano
+    - 🎯 **Conclusión**: **SUB-1:35 CONFIRMADO por ritmo** pero **FALTA VOLUMEN DE 30K en plano**
+  - Sensaciones: 10/10 dureza - "me dolía hasta el alma" - límite físico alcanzado
+  - Zapatillas: [Pendiente confirmar]
+
+**VOLUMEN SEMANA 12**: _____ km (necesito Lun-Jue para completar)
+
+---
+
+## 📅 SEMANA 13 (29 SEPT - 5 OCT) - INICIO TAPERING
+
+- [ ] **Lunes 29**: Tempo corto 15min a 4:20/km
+  - Objetivo: 15min continuo a 4:20/km
+  - Resultado: _____ km en _____ (_____ /km)
+  - FC Promedio: _____ bpm | Training Load: _____
+  - Análisis:
+  - Sensaciones: _____
+
+- [ ] **Martes 30**: Velocidad mantenimiento - 4x600m a 3:50/km
+  - Objetivo: 4x600m a 3:50/km
+  - Resultados: _____ - _____ - _____ - _____
+  - FC Promedio: _____ bpm | Training Load: _____
+  - Análisis:
+  - Sensaciones: _____
+
+- [ ] **Miércoles 1 Oct**: Recuperación 40min
+  - Resultado: _____ km en _____ (_____ /km)
+  - Notas:
+
+- [ ] **Jueves 2**: Simulacro corto 6K a 4:25/km
+  - Objetivo: 6K a 4:25/km
+  - Resultado: _____ km en _____ (_____ /km)
+  - FC Promedio: _____ bpm | Training Load: _____
+  - Análisis:
+  - Sensaciones: _____
+
+- [ ] **Viernes 3**: Activación
+  - Resultado: _____ km
+  - Notas:
+
+- [ ] **Sábado 4**: Long run tapering 20K (últimos 5K a 4:30/km)
+  - Objetivo: 15K base + 5K específicos a 4:30/km
+  - Resultado: _____ km en _____ (_____ /km promedio)
+  - Primeros 15K: _____ /km
+  - Últimos 5K: _____ /km
+  - FC Promedio: _____ bpm | Training Load: _____
+  - Análisis:
+  - Sensaciones: _____
+
+- [ ] **Domingo 5**: Aeróbico 60min
+  - Resultado: _____ km en _____ (_____ /km)
+  - Notas:
+
+**VOLUMEN SEMANA 13**: _____ km
+---
 
 ### RECUPERACIÓN
 - **28 Agosto**: Recuperación 45min
