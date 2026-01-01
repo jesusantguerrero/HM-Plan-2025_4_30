@@ -27,27 +27,45 @@
 
 ## 📊 CURRENT PERSONAL BESTS
 
-### 5K - 20:04 (Recent: September 20, 2025)
-**Race**: Evening Run, La Romana
+## 📊 CURRENT PERSONAL BESTS
+
+### 5K - 19:51 (December 28, 2025) ⭐ NEW PR
+**Race**: Sub-20 Attempt
+**Location**: La Romana
+
 **Conditions**:
-- Cloudy, 29°C, feels like 29°C
-- 78% humidity (tough!)
-- Wind 13 km/h from SSE
-- Nearly flat (3m elevation gain)
+- Partly Cloudy, 24°C, feels like 26°C
+- 94% humidity
+- Wind 4.0 km/h from SSE
+- 7:02 AM start
+- Nearly flat course (3m elevation gain)
 
 **Performance**:
-- Moving time: 20:10
-- Pace: 4:01/km average
-- Heart Rate: 157 bpm average
-- Pacing: Strong execution - controlled negative split strategy
-- Splits: Started 3:57/km, maintained 4:00-4:17/km range
-- Note: "Blazing fast 5K with personal bests in 2-mile and 5K"
+- Gun time: 19:51
+- Pace: 3:58/km average (Optimum: 3:31/km - had more to give)
+- Heart Rate: 140 bpm average (controlled effort, not maximal)
+- Training Load: 53 (medium effort)
+- Aerobic Training Effect: 2.3 (medium)
+
+**Detailed Splits**:
+- K1: 3:47 (strong start)
+- K2: 3:56
+- K3: 3:54
+- K4: 4:03
+- K5: 4:08
+- Last 100m: 4:36/km (slight fade)
 
 **Key Insights**:
-- Can race well in heat/humidity
-- Good pacing discipline (no blowup)
-- Very recent PR (3 months ago)
-- VO2 max effort well-managed
+- Broke sub-20 barrier easily (9 seconds under)
+- Controlled effort - HR 140 avg shows room for more
+- Good pacing first 3K (3:47-3:56)
+- Last 2K fade (4:03-4:08) shows where training will help
+- 13-second improvement from September PR (20:04)
+- Training effect 2.3 = moderate, not maximal effort
+- Cadence: 168 avg
+- Shows excellent potential for further improvement
+
+**Previous 5K PR**: 20:04 (September 20, 2025)
 
 ---
 
@@ -407,9 +425,12 @@ This shows **sophisticated race preparation** with proper taper execution.
 4. **Mental endurance**: Building confidence for extended efforts
 
 ### Realistic Progressions Needed
-1. **5K (20:04 → 18:00)**: 2:04 improvement = 10.3% faster
-   - Requires VO2max development + speed endurance
-   - Most achievable with April timeline (16 weeks from Jan)
+**Current 5K Fitness (Dec 2025)**:
+- 19:51 5K capability with moderate effort
+- Gap to sub-18: 1:51 (from 19:51 to 18:00)
+- Shows 22 sec/km improvement needed (3:58 → 3:36)
+- Speed reserve exists (3:31/km optimum pace shown)
+- 75-80% chance of sub-18 with 16-week focused training
    
 2. **10K (43:30 → 40:00)**: 3:30 improvement = 8.0% faster
    - Requires lactate threshold work + volume
