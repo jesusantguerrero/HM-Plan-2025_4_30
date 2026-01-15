@@ -29,12 +29,33 @@
 
 #### **WEEK 2** (Jan 13-19) | Target: 25-30km
 - Mon: Rest
-- Tue: Easy 6km + 6 strides
-- Wed: Easy 5km
-- Thu: Fartlek 6km (8x1min ON @ 4:00-4:15/km / 1min jog)
-- Fri: Rest
-- Sat: Easy 6km
-- Sun: Long Run 10km @ 5:30-5:45/km
+- [x] **Tue 13**: Track 3x2000 @ 4:10/km (con 2:00 rec) + WU/CD
+    session I:
+    - Resultado: 4.35km en 18:47 (4:19/km) [145 lpm avg / — lpm max]
+    - Intervalos (hechos): 2x2000
+        - Rep 1: 2000m en 8:06 (4:03/km)
+        - Rec: 2:00 (321m @ 6:12/km)
+        - Rep 2: 2000m en 8:33 (4:16/km)
+    - Análisis: Se ejecutó fuerte; primera rep salió más rápida que el target (4:03 vs 4:10) y eso pudo afectar la 2da (4:16). Se cortó en 2 reps por tema de tiempo (llevar a la niña a la escuela), pero sensación fue buena (“me sentía fuerte”).
+    - Lección: Para pacing homogéneo en reps largas: abrir 5–10s más lento el 1er 400–600m, estabilizar al ritmo objetivo, y cerrar fuerte el último 400m si te queda. Mejor “clavar” 4:10-4:10-4:10 que hacer 4:03 y luego sufrir.
+- [x] **Wed 14**: 7 km easy + (opcional doble PM +4 km muy suave)
+    session I:
+    - Resultado: 7.05km en 43:31 (6:09/km) [146 lpm avg / 159 lpm max]
+    - Splits: 5:57 - 5:27 - 5:56 - 6:34 - 6:19 - 6:31 - 6:23 - 6:14
+    - Análisis: Rodaje cómodo con HR estable (146) y clima fresco; buen control aeróbico.
+    - Lección: Salida más controlada (km1) y buscar km 2–7 dentro de ±10s para pacing homogéneo.
+
+    session II (PM):
+    - Resultado: 4.01km en 24:28 (6:05/km) [146 lpm avg / 158 lpm max]
+    - Splits: 6:03 - 6:12 - 6:02 - 6:04
+    - Análisis: Ritmo muy homogéneo; doble suave perfecto para sumar volumen sin fatigar.
+    - Lección: Mantener este “doble” solo si al día siguiente toca calidad; si no, mejor dejarlo opcional.
+
+    --- 
+- [ ] **Thu**: Pista: WU 2 km + 8×800m @ 3:50–3:55/km (rec 90”) + CD 1.5–2 km (~9 km total)
+- [ ] **Fri**: 6 km easy + 6× strides (15–20s, recuperación completa)
+- [ ] **Sat**: OFF o 5 km muy suave (solo si estás fresco)
+- [ ] **Sun**: Long run 14 km: 10 km @ 5:00–5:10 → últimos 4 km @ 4:45–4:50
 
 #### **WEEK 3** (Jan 20-26) | Target: 30-35km
 - Mon: Rest
