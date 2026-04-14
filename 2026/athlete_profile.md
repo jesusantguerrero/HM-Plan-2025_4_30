@@ -49,14 +49,14 @@ Notes:
 - Demonstrated **strong pacing discipline**
 - Comfortable racing in tropical conditions
 
-## 📊 4. CURRENT FITNESS METRICS
+## 📊 4. CURRENT FITNESS METRICS (UPDATED)
 
-- Critical Speed: 4:09/km  
-- Estimated Threshold Pace: 4:05–4:10/km
-- VO2max Interval Pace: 3:50–3:55/km
-- Current 5K Shape: ~19:30–19:45
-- Training Easy Pace: 5:30–6:10/km
-
+- Critical Speed: ~4:05–4:09/km  
+- Threshold Pace: 4:00–4:05/km  
+- VO2max Interval Pace: 3:40–3:50/km  
+- Current 5K Shape: **19:00–19:20**
+- Proven 3K Capacity: **~3:49/km (11:28 split)**  
+- Limiter: **Speed endurance beyond 3–4 km**
 
 ## 📊 5. CURRENT TRAINING LOAD
 
@@ -103,38 +103,39 @@ Notes:
 
 ---
 
-## ⚠️ 7. LIMITERS
+## ⚠️ 7. LIMITERS (UPDATED)
 
 Primary limiter:
 
-**Speed endurance after km 3–4 in 5k races**
+👉 **Inability to sustain race pace beyond km 3–4**
 
-Other constraints:
-
-- Weekly mileage ceiling ~60 km
-- Long runs rarely exceed 22 km
-- High humidity can increase fatigue load
+Evidence:
+- 5K race fade (3:49 → 4:03 → 4:23)
+- Strong 3K execution but collapse after
 
 ---
 
-## 🎯 8. DEVELOPMENT PRIORITIES – 2026
+## 🎯 8. DEVELOPMENT PRIORITIES (UPDATED)
 
-Primary objectives:
+1. Extend race pace duration (3K → 4K → 5K)
+2. Improve fatigue resistance at 5K pace
+3. Complete full interval volume (no missed reps)
+4. Maintain aerobic base while sharpening
 
-1. Improve **speed endurance for sub-18 5K**
-2. Increase sustainable volume toward **70 km/week**
-3. Extend long run durability to **25–30 km**
-4. Improve fatigue resistance late in races
+---
 
-## 📌 9. CURRENT SEASON FOCUS
+## 📌 9. CURRENT PHASE
 
-Immediate target:
+**Phase: Sub-19 Execution Block (6 weeks)**
 
-**SDRun 5K – April 12**
+Structure:
+- Attempt every 2 weeks:
+  - Attempt 1: 3:55–3:52/km
+  - Attempt 2: 3:48/km
+  - Attempt 3: 3:45/km
 
 Goal:
-
-**Sub-19:00**
+👉 Convert current fitness into **repeatable race execution**
 
 Next progression:
 

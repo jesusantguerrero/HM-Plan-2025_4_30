@@ -393,44 +393,364 @@
 - Sat: Easy Long Run 12km @ 5:30-5:45/km
 - Sun: Easy km + 6 strides
 
-#### **WEEK 11** (Mar 17 - Mar 23) | Target: 45-50km
-- Mon: Rest
-- Tue: 10km total - **6x600m @ 3:35-3:45/km**, 90s rec
-- Wed: Easy 8km
-- Thu: 9km total - Tempo **5km @ 4:10-4:20/km**
-- Fri: Easy 6km
-- Sat: Easy 7km + 6 strides
-- Sun: Long Run 16km (12km @ 5:20 + 4km @ 4:40/km)
+#### **WEEK** (Mar 16 - 22) | ~22 km total running
+- [x] **Mon 16**: Rest
+- [x] **Tue 17**: 5K Training: Intervals 600's — WU 1.1km + reps + CD 0.8km (~6.6 km total)
+    session I (Martes 17 Mar, AM):
+        - Resultado: 6.58km total combinado
+        - WU: 1.13km en 6:30 (5:53/km) [137 lpm avg / 157 lpm max] Cad: 160
+        - Intervals: 4.62km en 20:03 (4:20/km overall) [154 lpm avg / 170 lpm max] Cad: 161
+        - CD: 0.83km en 5:06 (6:09/km) [152 lpm avg / 159 lpm max] Cad: 158
+        - Load: 30
+        
+        - Estructura visible (splits por km del bloque de intervalos):
+          * KM 1: 4:30 (rep + recovery mezclados)
+          * KM 2: 4:19
+          * KM 3: 5:29 (más recovery en este km)
+          * KM 4: 6:36 (último km con recovery final)
+        
+        - Análisis: Sesión de intervalos 600m con nombre "5K T: Intervals 600's" — entrenamiento específico de velocidad 5K. HR avg 154 con max 170 muestra esfuerzo de calidad sin reventar. Los splits por km mezclan trabajo y descanso así que no se puede aislar cada rep, pero el promedio general de 4:20/km para todo el bloque es sólido. WU y CD ejecutados correctamente.
+        
+        - Lección: Base de velocidad para 5K está construyéndose. Cadencia 161 en los intervalos — potencial para subir a 165+ en reps rápidas.
 
-#### **WEEK 12** (Mar 24 - Mar 30) | Target: 52-56km | PEAK WEEK
-- Mon: Rest or Easy 5km
-- Tue: 11km total - **5x1000m @ 3:32-3:40/km**, 2min rec
-- Wed: Easy 8km
-- Thu: Fartlek 10km (8x2min @ 3:50/km / 90s jog)
-- Fri: Easy 7km
-- Sat: Easy 8km + 8 strides
-- Sun: Long Run 17km (13km @ 5:15 + 4km @ 4:35/km)
+- [x] **Wed 18**: Progression Run 4km
+    session I (Miércoles 18 Mar, PM):
+        - Resultado: 4.00km en 21:48 (5:27/km) [156 lpm avg / 170 lpm max]
+        - Cadencia: 161 spm
+        - Load: 35
+        - Elevación: 3m
+        
+        - Splits:
+          * KM 1: 6:02
+          * KM 2: 5:09
+          * KM 3: 5:00
+          * KM 4: 5:37
+        
+        - Análisis: Patrón de progresión en KM 1-3 (6:02→5:09→5:00, bajando 1 min en 3 km). KM 4 sube a 5:37 — probablemente fatiga o cooldown intencional. HR 156 avg y 170 max muestran que no fue easy run; fue un esfuerzo de moderado a alto. Para 4km a 5:27/km promedio, ese HR es elevado.
+        
+        - Lección: Sesión corta con buena progresión pero HR alta para el ritmo. Podría indicar fatiga residual del día anterior (intervalos).
 
+- [x] **Thu 19**: 5K Training: Tempo 5km
+    session I (Jueves 19 Mar, AM):
+        - Resultado: 5.02km en 21:30 (4:17/km) [157 lpm avg / 167 lpm max]
+        - Cadencia: 170 spm
+        - Load: 37
+        - WU previo: 0.44km en 2:28 (5:37/km) [126 lpm avg / 140 lpm max]
+        
+        - Splits:
+          * KM 1: 4:20
+          * KM 2: 4:18
+          * KM 3: 4:16
+          * KM 4: 4:16
+          * KM 5: 4:14
+        
+        - Análisis: SESIÓN EXCELENTE. Negative split perfecto de principio a fin (4:20→4:14). Cada km fue igual o más rápido que el anterior — ejecución de reloj suizo. HR 157 avg con max 167 muestra esfuerzo controlado a threshold. Cadencia alta 170 spm coincide con buena mecánica a ritmo rápido. Este es exactamente el tipo de ejecución que construye confianza para carrera.
+        
+        - Lección: Capacidad de tempo a 4:17/km está bien establecida con margen. El cuerpo puede mantener negative split en 5km a este ritmo — señal de fitness aeróbico sólido.
 
-#### **WEEK 13** (Mar 31 - Apr 6) | Target: 40-45km | TAPER
-- Mon: Rest
-- Tue: 9km total - **6x400m @ 3:30-3:38/km**, 2min rec
-- Wed: Easy 7km
-- Thu: 7km total - Tempo **3km @ 4:20/km**
-- Fri: Easy 6km
-- Sat: Easy 8km + 6 strides
-- Sun: Easy 10km @ 5:30-5:45/km
+- [x] **Fri 20**: Progression Run 5km
+    session I (Viernes 20 Mar, PM):
+        - Resultado: 5.03km en 26:25 (5:15/km) [157 lpm avg / 177 lpm max]
+        - Cadencia: 158 spm
+        - Load: 43
+        - Elevación: 4m
+        
+        - Splits:
+          * KM 1: 6:09
+          * KM 2: 5:39
+          * KM 3: 5:29
+          * KM 4: 4:46
+          * KM 5: 4:13
+        
+        - Análisis: Progresión agresiva — casi 2 min de diferencia entre KM 1 (6:09) y KM 5 (4:13). HR max 177 confirma que el final fue esfuerzo alto. Patrón claro de correr los primeros km suaves y acelerar progresivamente. KM 5 a 4:13/km es rápido — cerca de ritmo tempo. Tercera sesión de calidad en 4 días (intervalos Tue, tempo Thu, progression Fri).
+        
+        - Lección: Buena capacidad de acelerar bajo fatiga acumulada. Pero 3 sesiones de calidad en 4 días es carga alta — monitorear recuperación.
 
+- [x] **Sat 21**: Rest
+- [x] **Sun 22**: Progression Run 5.5km
+    session I (Domingo 22 Mar, PM):
+        - Resultado: 5.53km en 28:56 (5:14/km) [156 lpm avg / 170 lpm max]
+        - Cadencia: 162 spm
+        - Load: 46
+        - Elevación: 15m
+        
+        - Splits:
+          * KM 1: 5:31
+          * KM 2: 5:19
+          * KM 3: 5:18
+          * KM 4: 4:57
+          * KM 5: 4:59
+        
+        - Análisis: Otro negative split consistente. KM 1-3 bajan de 5:31 a 5:18, luego se estabiliza sub-5:00 en KM 4-5. HR 156 avg muestra que estas "easy runs" en realidad tienen intensidad moderada-alta. Patrón recurrente esta semana: empezar suave, cerrar fuerte.
+        
+        - Lección: El cuerpo responde bien a progresiones. Consistencia de la semana es notable — 4 sesiones de calidad variable pero todas con negative split.
 
-#### **WEEK 14** (Apr 7 - Apr 12) | Target: 30-35km | 🏁 RACE WEEK
-- Mon: Rest
-- Tue: 7km total - **4x200m @ 3:30/km**, full rec
-- Wed: Easy 6km
-- Thu: Easy 5km + 4 strides
-- Fri: Rest or 3km shakeout
-- Sat: Rest
-- Sun: 🏁 **RACE - SDRun 5K**
 ---
+
+#### **WEEK** (Mar 23 - 29) | ~49 km total running
+- [x] **Mon 23**: Rest (Mov and flex Workout 25:30)
+- [x] **Tue 24**: Intervals: 4×1000m — WU 1.4km + reps + recovery (~6.1 km total)
+    session I (Martes 24 Mar, AM):
+        - Resultado: 6.11km total combinado
+        - WU: 1.42km en 8:04 (5:42/km) [142 lpm avg / 154 lpm max] Cad: 158
+        - Intervalos bloque: 4.69km en 19:34 moving / 21:47 elapsed [154 lpm avg / 167 lpm max] Cad: 163
+        - Load: 29
+        
+        - Splits por km del bloque de intervalos:
+          * KM 1: 3:38 🔥 (rep rápida dominando este km)
+          * KM 2: 4:36 (mezcla rep + recovery)
+          * KM 3: 4:32 (mezcla rep + recovery)
+          * KM 4: 6:25 (último km mayormente recovery)
+        
+        - Análisis: Sesión titulada "Intervals: 4x1000" con primer km a 3:38 — velocidad excelente. El formato de grabación mezcla reps y recovery en los splits por km, pero el ritmo promedio de las reps fue probablemente ~3:40-3:50/km basado en el KM 1 y el promedio general. HR max 167 muestra esfuerzo controlado. Diferencia entre moving (19:34) y elapsed (21:47) indica ~2 min de paradas entre reps.
+        
+        - Lección: Velocidad de 1000m está sólida. El KM 1 a 3:38 muestra capacidad de turnover alto.
+
+- [x] **Wed 25**: Rest
+- [x] **Thu 26**: Tempo/Fartlek 6.9km
+    session I (Jueves 26 Mar, AM):
+        - Resultado: 6.86km en 33:38 (4:54/km) [149 lpm avg / 166 lpm max]
+        - Cadencia: 164 spm
+        - Load: 42
+        
+        - Splits:
+          * KM 1: 6:45 (warmup incorporado)
+          * KM 2: 4:35
+          * KM 3: 4:21
+          * KM 4: 4:55
+          * KM 5: 4:36
+          * KM 6: 4:28
+        
+        - Análisis: Warmup integrado en KM 1 (6:45) y luego ritmo sostenido entre 4:21-4:55 por 5 km. KM 3 fue el más rápido (4:21) — patrón de ir encontrando el ritmo y luego sostener. Promedio post-warmup: ~4:33/km para 5 km. HR 149 avg es moderado, señal de que 4:33/km es zona cómoda-controlada. Buena sesión de volumen a ritmo medio.
+        
+        - Lección: Ritmo de 4:30-4:35/km es sustainable con HR <150. Esto es relevante para definir pace de media maratón.
+
+- [x] **Fri 27**: Rest
+- [x] **Sat 28**: Long Run 14km (progresivo)
+    session I (Sábado 28 Mar, AM):
+        - Resultado: 13.95km en 1:21:42 moving / 1:25:31 elapsed (5:51/km moving) [150 lpm avg / 182 lpm max]
+        - Cadencia: 156 spm
+        - Load: 104
+        - Elevación: 47m
+        
+        - Splits:
+          * KM 1: 5:51
+          * KM 2: 6:17
+          * KM 3: 6:05
+          * KM 4: 6:01
+          * KM 5: 6:30
+          * KM 6: 6:05
+          * KM 7: 8:04 ⚠️ (parada incluida)
+          * KM 8: 6:29
+          * KM 9: 6:23
+          * KM 10: 8:29 ⚠️ (parada incluida)
+          * KM 11: 6:06
+          * KM 12: 4:11 🔥
+          * KM 13: 4:02 🔥
+        
+        - Análisis: Fondo con cierre progresivo brutal. KM 1-6 a ~6:05/km como base aeróbica, con paradas en KM 7 y KM 10 (~4 min total parado). Pero los últimos 2 km explotaron: 4:11 y 4:02 — bajando casi 2 min/km del promedio anterior. HR max 182 confirma esfuerzo máximo en el cierre. Esta es una señal excelente de reserva de velocidad después de 12km de fondo.
+        
+        - Lección: Capacidad de cerrar fuerte post-fondo está presente. Los últimos 2 km a 4:06/km promedio después de 11km muestran que la fatiga no elimina la velocidad — la reserva está ahí.
+
+- [x] **Sun 29**: Long Run 16km (progresivo) — back-to-back con sábado
+    session I (Domingo 29 Mar, AM):
+        - Resultado: 16.26km en 1:37:46 moving / 1:42:27 elapsed (6:00/km moving) [152 lpm avg / 170 lpm max]
+        - Cadencia: 160 spm
+        - Load: 137
+        - Elevación: 45m
+        
+        - Splits:
+          * KM 1: 6:26
+          * KM 2: 6:18
+          * KM 3: 5:55
+          * KM 4: 6:25
+          * KM 5: 6:01
+          * KM 6: 6:12
+          * KM 7: 7:04
+          * KM 8: 6:38
+          * KM 9: 9:32 ⚠️ (parada larga)
+          * KM 10: 6:27
+          * KM 11: 6:48
+          * KM 12: 6:04
+          * KM 13: 5:29
+          * KM 14: 5:54
+          * KM 15: 5:05
+          * KM 16: 4:47 🔥
+        
+        - Análisis: Segundo fondo consecutivo — 16km el día después de 14km (30km en el weekend). Mismo patrón de cierre progresivo: KM 13-16 bajan de 5:29 a 4:47. Parada larga en KM 9 (9:32) pero se recuperó bien. HR max 170 (vs 182 ayer) muestra que no llegó al mismo techo, posiblemente por fatiga acumulada. Load 137 es el más alto del bloque — sesión exigente sobre piernas cansadas.
+        
+        - Contexto: Back-to-back weekend con 14km + 16km = 30km en dos días. Estrategia de volumen agresiva que simula condiciones de fatiga de carrera.
+        
+        - Lección: El cierre progresivo se repite consistentemente (Sat y Sun). El cuerpo puede ejecutar sub-5:00 en los últimos kms incluso sobre piernas cargadas. Las paradas siguen siendo el área a mejorar — 5+ min parado en cada fondo largo rompe el ritmo del entrenamiento.
+
+---
+
+#### **WEEK** (Mar 30 - Apr 5) | ~34 km total running
+- [x] **Mon 30**: Rest
+- [x] **Tue 31**: Speed: WU 2.3km + 3km @ 3:50/km + CD 1.3km (~6.6 km total)
+    session I (Martes 31 Mar, AM):
+        - Resultado: 6.63km total en 33:30 combinado
+        - WU: 2.28km en 13:26 (5:53/km) [138 lpm avg / 153 lpm max]
+        - Speed block: 3.02km en 11:35 (3:50/km) [149 lpm avg / 162 lpm max]
+        - CD: 1.33km en 8:29 (6:24/km) [146 lpm avg / 155 lpm max]
+        - Cadencia speed block: 173 spm
+        - Load: 15 (speed block)
+
+        - Estructura visible:
+          * WU: 2.28km @ 5:53/km
+          * KM 1: 3:49
+          * KM 2: 3:50
+          * KM 3: 3:51
+          * CD: 1.33km @ 6:24/km
+
+        - Análisis: Sesión de calidad ejecutada con precisión quirúrgica. Splits de 3:49-3:50-3:51 muestran control de ritmo casi perfecto — variación de apenas 2 segundos en 3 km. Cadencia alta (173 spm) indica buena mecánica a velocidad. HR promedio 149 en el bloque rápido sugiere que no fue esfuerzo máximo, había capacidad para más volumen o intensidad. Warmup y cooldown ejecutados correctamente.
+
+        - Lección: Disciplina de pacing a ritmo threshold está muy sólida. El bloque de 3km se siente corto para el nivel de ejecución — hay espacio para extender a 4-5km en futuras sesiones sin sacrificar calidad.
+
+- [x] **Wed 1**: Rest
+- [x] **Thu 2**: Intervalos: WU ~2km + reps variados (2km + 1km + 1km) (~6.1 km total)
+    session I (Jueves 2 Abr, AM):
+        - Resultado: 6.12km total combinado
+        - Cadencia reps: 170-176 spm
+        - Load combinado: bajo
+
+        - Estructura visible (5 actividades separadas en Strava):
+          * WU: 1.95km @ 5:27/km (10:37) [142 lpm avg / 154 lpm max] Cad: 160
+          * Rep 1: 1.97km @ 3:43/km (7:20) [142 lpm avg / 158 lpm max] Cad: 175
+          * Rep 2: 1.01km @ 4:02/km (4:04) [136 lpm avg / 153 lpm max] Cad: 170
+          * Rep 3: 1.00km @ 3:35/km (3:37) [148 lpm avg / 166 lpm max] Cad: 176
+          * CD: 0.19km @ 5:25/km (1:04) — fragment, probablemente cooldown corto
+
+        - Análisis: Sesión de intervalos con ejecución progresiva. Rep 1 (2km @ 3:43) fue fuerte pero controlada. Rep 2 (1km @ 4:02) parece recovery jog o rep más suave. Rep 3 (1km @ 3:35) fue la más rápida — buen cierre con HR max 166 y cadencia 176 spm, mostrando capacidad de sprint bajo fatiga acumulada. HR relativamente baja en Rep 1 (142 avg) confirma que la velocidad no fue a costa de esfuerzo cardiovascular excesivo.
+
+        - Lección: Buena variación de estímulos (reps de 2km y 1km). Cooldown muy corto (apenas 200m) — en futuras sesiones dedicar al menos 1-1.5km de trote suave post-reps para mejor recuperación.
+
+- [x] **Fri 3**: Recovery: 2km + 2km (~4 km total)
+    session I (Viernes 3 Abr, ~10:00 AM):
+        - Resultado: 2.04km en 10:59 moving / 19:41 elapsed (5:23/km moving) [146 lpm avg / 162 lpm max]
+        - Cadencia: 161 spm
+        - Splits: KM 1: 5:20 / KM 2: pausa larga incluida
+        - Nota: Diferencia grande entre moving (10:59) y elapsed (19:41) — ~9 min de pausa
+
+    session II (Viernes 3 Abr, ~1:30 PM):
+        - Resultado: 2.01km en 12:04 (6:00/km) [141 lpm avg / 159 lpm max]
+        - Cadencia: 159 spm
+        - Splits: KM 1: 6:29 / KM 2: 5:35
+
+        - Análisis: Dos trotes cortos de recuperación. Session I tuvo pausa larga mid-run (~9 min). Session II fue más limpia con negative split (6:29→5:35), mostrando que el cuerpo se fue soltando. HR promedio 141-146 para ritmo de 5:23-6:00 está un poco elevada para easy pace — señal de fatiga residual de intervalos jueves.
+
+        - Lección: Recuperación activa bien ejecutada entre sesiones clave. Idealmente mantener HR <140 en estos días.
+
+- [x] **Sat 4**: Long Run: Bagazo — 14.6km + 2.9km (~17.6 km total)
+    session I — Bagazo Part I (Sábado 4 Abr, AM):
+        - Resultado: 14.64km en 1:23:41 moving / 1:40:21 elapsed (5:43/km moving) [148 lpm avg / 174 lpm max]
+        - Cadencia: 160 spm
+        - Load: 88
+        - Elevación: 64m
+
+        - Estructura / Splits:
+          * KM 1: 5:31
+          * KM 2: 6:35
+          * KM 3: 6:36
+          * KM 4: 6:21
+          * KM 5: 6:03
+          * KM 6: 6:09
+          * KM 7: 5:47
+          * KM 8: 5:24
+          * KM 9: 4:58
+          * KM 10: 5:18
+          * KM 11: 12:29 ⚠️ (parada incluida)
+          * KM 12: 6:25
+          * KM 13: 8:27 ⚠️ (parada incluida)
+          * KM 14: 5:08
+
+    session II — Bagazo Part II (Sábado 4 Abr, AM):
+        - Resultado: 2.93km en 14:51 (5:04/km) [160 lpm avg / 174 lpm max]
+        - Cadencia: 165 spm
+        - Load: 27
+        - Elevación: 51m
+        - Splits: KM 1: 5:21 / KM 2: 4:52
+
+        - Análisis: Fondo largo con ejecución interesante. Bloque progresivo visible del KM 5 al KM 10 (6:03→4:58) — bajando casi 1 min/km progresivamente, muy buena señal de capacidad aeróbica. El problema fue la discontinuidad: ~17 min de tiempo parado (1:40:21 elapsed vs 1:23:41 moving) con paradas claras en KM 11 y KM 13. Part II ejecutada a buen ritmo (5:04/km) con negative split (5:21→4:52), HR alta (160 avg) muestra que fue un esfuerzo real después de Part I.
+
+        - Contexto: "Bagazo" — nombre sugiere ruta específica, posiblemente con terreno técnico o puntos de hidratación que causaron las paradas.
+
+        - Lección: Capacidad aeróbica soporta bloques progresivos dentro del fondo (KM 7-10 bajaron a sub-5:00). El punto a mejorar es reducir las paradas — planificar hidratación en movimiento o en puntos de parada más cortos (<1 min) para mantener el flujo del entrenamiento.
+
+- [x] **Sun 5**: Rest
+
+---
+
+#### **WEEK** (Apr 6 - Apr 12) | ~16 km total running | 🏁 SDRUN 5K
+- [x] **Mon 6**: Easy Run 3km
+    session I (Lunes 6 Abr, ~6:50 PM):
+        - Resultado: 3.04km en 16:06 (5:18/km) [149 lpm avg / 166 lpm max]
+        - Cadencia: 157 spm
+        - Load: 19
+        - Elevación: 10m
+
+        - Splits:
+          * KM 1: 5:42
+          * KM 2: 5:16
+          * KM 3: 4:53
+
+        - Análisis: Trote de recuperación 48h post fondo largo con patrón de negative split limpio (5:42→5:16→4:53). Cada km fue más rápido que el anterior — cuerpo soltándose progresivamente. HR 149 avg es un poco alto para easy pace, pero consistente con fatiga residual del sábado. Max 166 en el último km rápido.
+
+        - Lección: Recuperación post-fondo va bien. Cuerpo responde con negative split natural sin forzar.
+
+- [x] **Tue 7**: Rest
+- [x] **Wed 8**: Rest
+- [x] **Thu 9**: Easy Run hilly 6km
+    session I (Jueves 9 Abr, AM):
+        - Resultado: 6.00km en 34:53 (5:49/km) [143 lpm avg / 166 lpm max]
+        - Cadencia: 159 spm
+        - Load: 32
+        - Elevación: 369m ⛰️
+
+        - Splits:
+          * KM 1: 6:01
+          * KM 2: 5:57
+          * KM 3: 6:13
+          * KM 4: 6:11
+          * KM 5: 6:15
+          * KM 6: 4:13
+
+        - Análisis: Easy run con desnivel significativo (369m en 6km — promedio 61m/km). KM 1-5 muy consistentes entre 5:57-6:15 a pesar del terreno. KM 6 drásticamente más rápido (4:13) — probablemente retorno cuesta abajo o kick final. HR controlada a 143 avg muestra buen esfuerzo aeróbico sin sobrecargar antes de la carrera del domingo. 369m de elevación en 6km es considerable — esto es trabajo de fuerza disfrazado de easy run.
+
+        - Lección: Correr en terreno montañoso con HR controlada es excelente preparación de fuerza específica. La consistencia de pace en subida (KM 1-5) muestra madurez — correr por esfuerzo, no por ritmo.
+
+- [x] **Fri 10**: Rest
+- [x] **Sat 11**: Rest
+- [x] **Sun 12**: 🏁 RACE — SDRUN 5K 2026 (WU 1.65km + Race 5km)
+    session I — Warmup (Domingo 12 Abr, ~6:30 AM):
+        - WU: 1.65km en 11:06 (6:43/km) [143 lpm avg / 156 lpm max]
+        - Cadencia: 155 spm
+
+    session II — SDRUN 5k 2026 (Domingo 12 Abr, ~7:00 AM):
+        - Resultado: 5.00km en 19:54 (3:59/km) [157 lpm avg / 166 lpm max]
+        - Cadencia: 168 spm
+        - Load: 34
+        - Elevación: 56m
+
+        - Splits:
+          * KM 1: 3:50
+          * KM 2: 3:49
+          * KM 3: 3:49
+          * KM 4: 4:03
+          * KM 5: 4:23
+
+        - Análisis: Primeros 3 km ejecutados con precisión excelente (3:50-3:49-3:49), prácticamente idénticos — control de ritmo de élite. El problema aparece en KM 4 (+14s) y se agrava en KM 5 (+34s respecto a KM 1-3). Patrón claro de fade en los últimos 2 km. HR max apenas llegó a 166 — mismo valor que en easy runs — lo cual sugiere que el reloj no capturó el HR real de carrera o que no se llegó a redline completo. Cadencia 168 spm es buena pero menor que las sesiones de intervalos (173-176 spm).
+
+        - Contexto: Carrera en Santo Domingo, 24°C, 90% humedad. Condiciones calurosas que pudieron contribuir al fade final. Zapatos: ASICS MagicSpeed 4 Red Magic (196 km de uso).
+
+        - Lección: La resistencia a la velocidad falla después del KM 3. Los primeros 3 km muestran que el ritmo de 3:50/km ES sostenible — el cuerpo lo puede hacer. El gap está en mantenerlo más allá de los 3 km. Para cerrar sub-19:30, necesitas que KM 4-5 se mantengan en ~3:50 en lugar de subir a 4:03-4:23.
+
+        - Focus para próximo bloque:
+          * Intervalos de 4-5×1km @ 3:45-3:50/km con recovery corto (60-90")
+          * Reps de 1600m-2000m a ritmo 5K para entrenar el KM 3-5 específicamente
+          * Tempo runs de 4-5km @ 4:00/km para subir el umbral
+          * Considerar condiciones de calor — entrenar en horario similar para aclimatación
+
 
 ## 📝 WORKOUT LOG TEMPLATE
 
