@@ -20,16 +20,15 @@
 ---
 
 ## 🎯 2. RACE CALENDAR
-
 | Race | Date | Distance | Goal | Result |
-|------|------|----------|------|
+|------|------|----------|------|------|
 | Claro Medio Maratón | 2026-03-08 | 21K | Training race | 1:37:39 PB! |
-| **SDRun 5K** | **2026-04-12** | **5K** | **PB ATTEMPT: Sub-19:00** | --|
+| **SDRun 5K** | **2026-04-12** | **5K** | **PB ATTEMPT: Sub-19:00** | -- |
 | **Santo Domingo Corre 10K** | **2026-07-05** | **10K** | **PB ATTEMPT: Sub-40:00** | -- |
-| Maratón de Medellin | 2026-09-6 | 21K | **Strategy Test: Sub-1:30:00 Test Keep pace for 16 km | -- |
+| Maratón de Medellín | 2026-09-06 | 21K | **Strategy Test: Sub-1:30:00 (keep pace for 16 km)** | -- |
 | **Maratón de Santo Domingo** | **2026-10-18** | **21K** | **PB ATTEMPT: Sub-1:35:00** | -- |
-| Multiplaza | 2026-10-25 | 5K | Fun/shake-out (no PB pressure) | -- |
-| San Silvestre del Caribe | 2026-12-27 | 5K | Fun/shake-out (no PB pressure) | -- |
+| Multiplaza | 2026-10-25 | 5K | Fun / shake-out (no PB pressure) | -- |
+| San Silvestre del Caribe | 2026-12-27 | 5K | Fun / shake-out (no PB pressure) | -- |
 
 **PB Strategy**: 3 PB attempts in progression (5K → 10K → 21K -> 5k)
 
